@@ -111,8 +111,8 @@ Mentors-
 
 Image
 =====
-![PIC UNAVAILABLE CHECK PLEASE](![wall1-crop](https://user-images.githubusercontent.com/32795030/55216696-731b1b00-5223-11e9-8c1d-5d85e18e1284.jpeg)
- )
+![PIC UNAVAILABLE CHECK PLEASE](https://user-images.githubusercontent.com/32795030/55216696-731b1b00-5223-11e9-8c1d-5d85e18e1284.jpeg)
+ 
 ![PIC UNAVAILABLE CHECK PLEASE](link2 )
 
 
