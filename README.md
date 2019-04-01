@@ -5,6 +5,13 @@ Wall painting bot is a fully automatic robot capable of sketching images on the 
 The bot will take image through a laptop and will convert the image into 5 colors. 
 The bot will automatically change the color according to the image and will sketch on the wall.
 
+## Image
+
+![PIC UNAVAILABLE CHECK PLEASE](https://user-images.githubusercontent.com/32795030/55216696-731b1b00-5223-11e9-8c1d-5d85e18e1284.jpeg)
+ 
+![PIC UNAVAILABLE CHECK PLEASE](https://user-images.githubusercontent.com/32795030/55216879-06545080-5224-11e9-8536-9d109ee3f588.jpeg)
+
+
  ## Acknowledgements
  
 
@@ -109,16 +116,6 @@ The resolution of sketch is low.
 3. Abhimanyu Bambhaniya
 
 4. Pratham Meena
-
-## Image
-
-![PIC UNAVAILABLE CHECK PLEASE](https://user-images.githubusercontent.com/32795030/55216696-731b1b00-5223-11e9-8c1d-5d85e18e1284.jpeg)
- 
-![PIC UNAVAILABLE CHECK PLEASE](https://user-images.githubusercontent.com/32795030/55216879-06545080-5224-11e9-8536-9d109ee3f588.jpeg)
-
-
-
-
 
 
 ## References-
