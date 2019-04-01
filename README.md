@@ -12,43 +12,43 @@ We would like to express our special thanks to Alok Gupta sir , Prashant Sir , A
 
 ## Mechanical Components-
 
--Nut-bolts
+1. Nut-bolts
 
--Washers
+2. Washers
 
--Steel rod(2 qts of 1m each)
+3. Steel rod(2 qts of 1m each)
 
--Simple wheels(2)
+4. Simple wheels(2)
 
--Castor wheels(3)
+5. Castor wheels(3)
 
--Linear bearing(6mm diameter compatible with steel rods)
+6. Linear bearing(6mm diameter compatible with steel rods)
 
--Plywood with a rectangular cut of 60cm x 40cm 
+7. Plywood with a rectangular cut of 60cm x 40cm 
 
--Chassis of dimensions 90cm x 60cm 
+8. Chassis of dimensions 90cm x 60cm 
 
--Gears 
+9. Gears 
 
--Hinge 
+10. Hinge 
 
--L Brackets
+11. L Brackets
 
 ## Electronics Components-
 
--Arduino Mega
+1. Arduino Mega
 
--Raspberri pi
+2. Raspberri pi
 
--Motor Drivers(2)
+3. Motor Drivers(2)
 
--Cytron(1)
+4. Cytron(1)
 
--Rotary encoders(2)
+5. Rotary encoders(2)
 
--Simple DC motors(2)
+6. Simple DC motors(2)
 
--Stepper motor(1)</p>
+7. Stepper motor(1)</p>
 
 
 ## Software-
@@ -90,25 +90,25 @@ The resolution of sketch is low.
 
 ## Team Members-
 
--Adarsh Agrawal
+1. Adarsh Agrawal
 
--Atharva Mule
+2. Atharva Mule
 
--Deepak Haridas
+3. Deepak Haridas
 
--Purvi Agarwal
+4. Purvi Agarwal
 
--Vikash Kumar
+5. Vikash Kumar
 
 ## Mentors-
 
--Alok Gupta
+1. Alok Gupta
 
--Prashant Kumar
+2. Prashant Kumar
 
--Abhimanyu Bambhaniya
+3. Abhimanyu Bambhaniya
 
--Pratham Meena
+4. Pratham Meena
 
 ## Image
 
@@ -123,17 +123,17 @@ The resolution of sketch is low.
 
 ## References-
 
-Extended concept of Graffiti Bot-[Graffiti Bot 2.0](https://github.com/marsiitr/Grafitti-Bot-2.0)
+1. Extended concept of Graffiti Bot-[Graffiti Bot 2.0](https://github.com/marsiitr/Grafitti-Bot-2.0)
 
 
 
-DC Motor Code Reference- [DC motor Code](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+2. DC Motor Code Reference- [DC motor Code](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
 
 
-Stepper motor-  [Stepper motor-](https://circuitdigest.com/microcontroller-projects/arduino-stepper-motor-control-tutorial)
+3. Stepper motor-  [Stepper motor-](https://circuitdigest.com/microcontroller-projects/arduino-stepper-motor-control-tutorial)
 
 
-Rotary encoder- [Rotary encoder-](https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/)
+4. Rotary encoder- [Rotary encoder-](https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/)
 
 
 
