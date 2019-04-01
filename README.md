@@ -103,11 +103,11 @@ Mentors-
 ========
 -Alok Gupta
 
--Prashant Sir
+-Prashant Kumar
 
--Abhimanyu Sir
+-Abhimanyu Bambhaniya
 
--Pratham Sir
+-Pratham Meena
 
 Image
 =====
